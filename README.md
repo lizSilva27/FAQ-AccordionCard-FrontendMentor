@@ -32,12 +32,11 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
--BEM
--JavaScript
+- BEM
+- JavaScript
 
 
 ## Author
 
 Github https://github.com/lizSilva27
-Frontend Mentor 
-https://www.frontendmentor.io/profile/lizSilva27
+Frontend Mentor https://www.frontendmentor.io/profile/lizSilva27
